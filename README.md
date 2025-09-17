@@ -1,1 +1,1 @@
-# BSCS25072_ProductWebsite
+This is a thrift store where you can find high quality products in economical rates. Each product is selected through days of hardwork and it has been made sure that it makes you feel confident the second you wear it.
